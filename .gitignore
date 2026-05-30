@@ -1,0 +1,5 @@
+# Chi cho phep file .gpg da ma hoa — chan moi dump tho
+*.sql
+*.sql.gz
+*.dump
+!*.gpg
